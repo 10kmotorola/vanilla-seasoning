@@ -18,3 +18,6 @@ Please make a [GitHub issue](https://github.com/mariospicross/vanilla-seasoning/
 
 ## Why are some of the mods disabled?
 Whenever a mod becomes incompatible, I simply just disable it. If you have any suggestions for what to replace these with, please let me know.
+
+## Can I use this on any server I join?
+While probably true, **this modpack is not designed with this in mind.** Please run the mod list by the server owner before playing.
