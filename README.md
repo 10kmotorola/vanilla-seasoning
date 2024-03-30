@@ -1,3 +1,5 @@
+# Vanilla Seasoning
+
 Vanilla Seasoning is a personalized modpack that focuses on QoL 
 enhancements and various other fancy tweaks while still not breaking the
 vanilla experience. This modpack is mostly focused on what I genuinely like to play with, and I'm open to any and all suggestions for what to include. :)
